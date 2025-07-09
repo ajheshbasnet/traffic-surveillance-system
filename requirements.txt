@@ -1,0 +1,7 @@
+ultralytics==8.1.28
+opencv-python==4.12.0.0
+numpy==1.26.4
+matplotlib==3.9.0
+easyocr==1.7.1
+sqlalchemy==2.0.30
+psycopg2-binary==2.9.9
