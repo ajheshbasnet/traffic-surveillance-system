@@ -2,7 +2,7 @@
 
 An intelligent license plate recognition system that leverages YOLOv8 and computer vision technologies to monitor traffic in real-time, automatically detecting and analyzing vehicle license plates while cross-referencing them with a comprehensive database to identify flagged records.
 
-📢 [See the sample video: ]([https://www.linkedin.com/posts/YOUR-LINK-HERE](https://www.linkedin.com/feed/update/urn:li:activity:7348594602439815168/))
+📢 [See the sample video: ](https://www.linkedin.com/feed/update/urn:li:activity:7348594602439815168/)
 
 
 ## Features
